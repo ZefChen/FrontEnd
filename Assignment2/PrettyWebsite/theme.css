@@ -1,0 +1,39 @@
+.head{
+    height: 150px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWVmZ9ogdHAmtLylr87DeOGEeHseCMsaukw&usqp=CAU);
+}
+h1{
+    float:right;
+    margin-top: 90px;
+    color:whitesmoke;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+}
+.container{
+    position:absolute;
+    top:250px;
+    width:800px;
+    height: 700px;
+}
+.p1{
+    position:absolute;
+    left:0;
+    top: 200px;
+}
+.p2{
+    position:absolute;
+    left:0;
+    bottom:0px;
+}
+.p3{
+    right: 0;
+    top:200px;
+}
+.p4{
+    right: 0;
+    bottom:0;
+}

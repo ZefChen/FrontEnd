@@ -1,0 +1,15 @@
+body{
+    color:white;
+    background-color: rgb(26, 24, 24);
+}
+section{
+    display: inline-block;
+    padding-inline-start: 7%;
+    vertical-align: top;
+}
+a{
+    color:antiquewhite;
+    text-decoration: none;
+}
+
+
